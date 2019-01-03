@@ -2,7 +2,7 @@
 
 
 
-### 파일 설명 :
+### 파일 설명
 
 execute_(N)_simulation_part.m ==> 논문의 figure N 을 위한 simulation 실행
 
@@ -11,4 +11,10 @@ execute_(N)_simulation_part.m ==> 논문의 figure N 을 위한 simulation 실�
   
 
 Paper_draw_figure_N_~simulation.m ==> 위 siumulation 결과 그래프를 그리기 위한 파일
+
+### 주석 정보
+
+Figure 4,5 simulation 에 대해서만 코드 설명 주석 .
+
+이외의 파일은 유사하므로 주석 생략.
 
